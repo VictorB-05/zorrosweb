@@ -88,8 +88,8 @@
   --bs-body-line-height: 1.5;
   --bs-body-color: #222;
   --bs-body-color-rgb: 34, 34, 34;
-  --bs-body-bg: #fff;
-  --bs-body-bg-rgb: 255, 255, 255;
+  --bs-body-bg: rgba(235, 105, 100, 0.566);
+  --bs-body-bg-rgb: 235, 105, 100, 0.566;
   --bs-emphasis-color: #000;
   --bs-emphasis-color-rgb: 0, 0, 0;
   --bs-secondary-color: rgba(34, 34, 34, 0.75);
@@ -6184,7 +6184,7 @@ textarea.form-control-lg {
   margin-left: 3px;
   text-indent: -999px;
   cursor: pointer;
-  background-color: #ff0000;
+  background-color: #ffffff;
   background-clip: padding-box;
   border: 0;
   border-top: 10px solid transparent;

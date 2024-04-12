@@ -10,3 +10,9 @@
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     margin-left: 10%;
 }
+.parafos{
+    text-align: justify;
+}
+body{
+    background-color: #ff730034;
+}
